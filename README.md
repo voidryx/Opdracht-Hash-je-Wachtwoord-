@@ -68,6 +68,3 @@ Een opgeslagen hash ziet er zo uit: `$2y$10$abcdefghijklmnopqrstuuXYZ...`
 - `10` = de cost (hoe zwaar het rekenwerk is)
 - de eerste 22 tekens daarna = de salt, de rest is de hash
 
-
-- https://www.php.net/manual/en/function.password-hash.php
-- https://auth0.com/blog/hashing-in-action-understanding-bcrypt/
